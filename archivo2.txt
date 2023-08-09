@@ -1,0 +1,9 @@
+Otros textos en un archivo 2
+Con saltos de línea
+
+
+
+
+Espacios en blanco
+
+		tabs
